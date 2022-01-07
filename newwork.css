@@ -1,0 +1,41 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 60px;
+    background-color: transparent;
+}
+.one{
+    color: violet;
+}
+p{
+    color: white;
+}
+.two{
+    color: rgb(159, 159, 223);
+    background-color: rgb(63, 82, 38);
+}
+section{
+    display: flex;
+}
+.four{
+    width: 500%;
+    padding-left: 2%;
+}
+.four img{
+    width: 90%;
+}
+.five{
+    color: darkblue;
+    padding: 10px 35px;
+    text-decoration: none;
+    background-color: darkgrey;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.ek{
+    background-image: url(piku.jpg);
+    background-repeat: no-repeat;
+
+}
